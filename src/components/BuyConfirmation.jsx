@@ -103,7 +103,7 @@ const BuyConfirmation = ({
       }
     ];
 
-    const contractAddress = "0x5f9F7a75F5130867bE9ffB6409C0163D08CfDB2a";
+    const contractAddress = "0x8c5fb843024020b194427dDf1E22D66C91211Cb3";
     const contract = new web3.eth.Contract(contractABI, contractAddress);
 
     console.log(contract);
