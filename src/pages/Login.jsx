@@ -8,7 +8,7 @@ const Login = ({ refer }) => {
         <img src={welcomeImg} className="welcome-logo" alt="logo" />
       </div>
       <div className="footer-copyright text-center py-3 text-bottom">
-        <h3 className="text-white">Powerd by LoyaniX©</h3>
+        <h3 className="text-white">Powerd by SH©</h3>
       </div>
     </div>
   );
